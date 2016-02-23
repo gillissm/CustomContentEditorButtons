@@ -1,3 +1,7 @@
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\App_Config\Include\zzTheCodeAttic\TheCodeAttic.ContentEditorInjectPipeline.config
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\App_Config\Include\zzTheCodeAttic\TheCodeAttic.CustomContentEditorCommands.config
 C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\sitecore modules\Shell\TheCodeAttic\TheCodeAttic.CollapseExpandCommands.js
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\Sitecore.Kernel.dll
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\Sitecore.Kernel.xml
 C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\TheCodeAttic.CustomContentEditorButtons.dll
 C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\TheCodeAttic.CustomContentEditorButtons.pdb

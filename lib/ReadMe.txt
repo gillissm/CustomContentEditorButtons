@@ -1,0 +1,1 @@
+Sitecore Current contains Assemblies for Sitecore 8.1 update 1
