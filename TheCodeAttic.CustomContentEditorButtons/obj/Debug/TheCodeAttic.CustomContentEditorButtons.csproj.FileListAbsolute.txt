@@ -1,0 +1,5 @@
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TheCodeAttic.CustomContentEditorButtons\bin\TheCodeAttic.CustomContentEditorButtons.dll
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TheCodeAttic.CustomContentEditorButtons\bin\TheCodeAttic.CustomContentEditorButtons.pdb
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TheCodeAttic.CustomContentEditorButtons\obj\Debug\TheCodeAttic.CustomContentEditorButtons.csprojResolveAssemblyReference.cache
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TheCodeAttic.CustomContentEditorButtons\obj\Debug\TheCodeAttic.CustomContentEditorButtons.dll
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TheCodeAttic.CustomContentEditorButtons\obj\Debug\TheCodeAttic.CustomContentEditorButtons.pdb

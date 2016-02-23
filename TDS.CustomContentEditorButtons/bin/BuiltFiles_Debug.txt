@@ -1,0 +1,3 @@
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\sitecore modules\Shell\TheCodeAttic\TheCodeAttic.CollapseExpandCommands.js
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\TheCodeAttic.CustomContentEditorButtons.dll
+C:\Code\TheCodeAttic.CustomContentEditorButtons\TDS.CustomContentEditorButtons\bin\Debug\bin\TheCodeAttic.CustomContentEditorButtons.pdb
